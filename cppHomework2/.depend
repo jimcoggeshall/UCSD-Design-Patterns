@@ -1,0 +1,3 @@
+GlobalCounter.o: lib/GlobalCounter.hpp
+Client.o: src/Client.cpp lib/GlobalCounter.hpp
+GlobalCounter.o: src/GlobalCounter.cpp lib/GlobalCounter.hpp
